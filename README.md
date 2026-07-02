@@ -1,6 +1,4 @@
 # BridgeLabz-SIPP-Training-2026
-# BridgeLabz SIPP 2026
-
 Welcome to my **BridgeLabz SIPP 2026** repository.
 
 ## About the Program
